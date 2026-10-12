@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Hanna! 👋
 
-<!--
-**hann1616/hann1616** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science Graduate** | 💻 **Junior Software Developer**
 
-Here are some ideas to get you started:
+I am a passionate CS graduate eager to build web applications, solve real-world problems, and expand my technical skill set.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+- **Languages:** Java, JavaScript, TypeScript, HTML5, CSS3
+- **Web Development:** Responsive Web Design, Front-End Development
+- **Tools & Platforms:** Git, GitHub, VS Code
+
+---
+
+### 📂 Featured Projects
+- 🌐 **[Portfolio Website](https://your-username.github.io/portfolio-website)** — My personal portfolio showcasing my projects and background.
+- 📋 **[Todo App](https://your-username.github.io/todo-app)** — Responsive web app built with HTML, CSS, & JS.
+- 🧮 **[Calculator](https://your-username.github.io/calculator)** — Clean, responsive calculator web app.
+
+---
+
+### 📫 Connect with Me
+- **LinkedIn:** [Your LinkedIn Profile Link]
+- **Email:** your.email@example.com
